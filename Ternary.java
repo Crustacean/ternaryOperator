@@ -2,7 +2,7 @@ public class Ternary {
 	
 	public static void main(String[] args){
 		
-		String makeOfCar = "Volkswagen";
+		String makeOfCar = "Toyota";
 		boolean isDomestic = makeOfCar == "VolksWagen" ? false : true;
 		
 		if (isDomestic) {
